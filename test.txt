@@ -1,0 +1,1 @@
+Plot (Sin((x^2)*Cos((3/5)*x))*(x/2)), Solid, Purple. Plot ((((3/10)*(x^2))-(3*Sin(3*x)))-2), Solid, RGB(255,200,0). Plot (((-2/10)*(x^2))+3), Dotted, Black. x from -8 to 5.

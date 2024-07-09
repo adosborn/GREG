@@ -1,0 +1,1 @@
+Plot Sin(2*x), Dashed, Red. x from -4 to 4.

@@ -1,0 +1,1 @@
+Plot (Sin((x^2)*Cos((3/5)*x))*(x/2)), Solid, RGB(54,32,97). Plot Cos((1/2)*x), Dotted, Blue. x from -2 to 5.
